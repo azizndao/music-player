@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="playlists">Playlists</string>
+    <string name="albums">Albums</string>
+    <string name="artists">Artistes</string>
+    <string name="tracks">Sons</string>
+    <string name="album_cover">Couverture de l\'album</string>
+    <string name="songs_count">%d pistes</string>
+    <string name="albums_count">%d albums</string>
+    <string name="tracks_count">%d pistes</string>
+    <string name="play_all">Tous lire</string>
+    <string name="random">aleatoire</string>
+    <string name="search_hint">Rechercher...</string>
+    <string name="sort_by_name">Trier par nom</string>
+    <string name="sort_by_number_of_track">Trier by nombre de pistes</string>
+    <string name="timer">Veille programmée</string>
+    <string name="equalizer">Egaliseur</string>
+    <string name="settings">Paramètres</string>
+    <string name="tutorial">Tutoriels</string>
+    <string name="sort_by">Trier par</string>
+    <string name="increasing">croissant</string>
+    <string name="decreading">décroissant</string>
+</resources>

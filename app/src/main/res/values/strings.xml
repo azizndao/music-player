@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="playlists">Playlists</string>
+    <string name="albums">Albums</string>
+    <string name="artists">Artists</string>
+    <string name="tracks">Tracks</string>
+    <string name="album_cover">Album cover</string>
+    <string name="songs_count">%d songs</string>
+    <string name="albums_count">%d albums</string>
+    <string name="tracks_count">%d tracks</string>
+    <string name="play_all">Play all</string>
+    <string name="random">random</string>
+    <string name="search_hint">Search something</string>
+    <string name="sort_by_name">Sort by name</string>
+    <string name="sort_by_number_of_track">Sort by number of tracks</string>
+    <string name="timer">Timer</string>
+    <string name="equalizer">Equalizer</string>
+    <string name="settings">Settings</string>
+    <string name="tutorial">Tutorials</string>
+    <string name="sort_by">Sort by</string>
+    <string name="increasing">increassing</string>
+    <string name="decreading">decreading</string>
+    <string name="with_separator">%s - %s</string>
+    <string name="all_songs">All songs</string>
+    <string name="there_are_nothing">There are nothing here</string>
+    <string name="others">Others</string>
+</resources>
